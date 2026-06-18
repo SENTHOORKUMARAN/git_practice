@@ -1,3 +1,3 @@
-This is modified A.txt file
+First line modified in main for hw6
 New line added to A.txt
 Modified A for hw5
