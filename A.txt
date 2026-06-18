@@ -1,3 +1,3 @@
-This is modified A.txt file
+First line modified for hw6 in experiment branch
 New line added to A.txt
 Modified A for hw5
