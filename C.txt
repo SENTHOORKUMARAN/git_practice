@@ -1,1 +1,2 @@
 This is modified C.txt
+New line1 added in c for hw7
