@@ -1,3 +1,5 @@
 Mergerd:Main and Other versions
 New line added to A.txt
 Modified A for hw5
+New line1 added in A for hw7
+New line2 added in A for hw7
