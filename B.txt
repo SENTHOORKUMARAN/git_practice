@@ -1,1 +1,2 @@
 This is modified B.txt file
+Modified B for hw5
