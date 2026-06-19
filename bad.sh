@@ -1,4 +1,6 @@
 #!/bin/bash
 
-NAME=Senthoor
-echo Hello $NAME
+for file in $(ls *.txt)
+do
+    cat $file
+done
