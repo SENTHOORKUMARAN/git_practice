@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for file in $(ls *.txt)
+for file in *.txt
 do
-    cat $file
+    cat "$file"
 done
